@@ -1,0 +1,716 @@
+/* hero img */
+
+
+
+/* .hero-img{
+    position: absolute;
+    width: 963px;
+    height: 824px;
+    left: 879px;
+    top: 180px;
+    /* background: url(template 01-1.png);
+    mix-blend-mode: multiply;} */ */
+
+
+/* h1 */
+
+/* .heading{
+    position: absolute;
+    width: 590px;
+    height: 129px;
+    left: 162px;
+    top: 374px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+
+    color: #E71313;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 118px;
+    height: 49px;
+    left: 1740px;
+    top: 26px;
+
+    background: rgba(0, 85, 255, 0.88);
+    border-radius: 5px;
+} */
+
+/* hero para */
+
+/* .hero-para{
+    position: absolute;
+    width: 489px;
+    height: 88px;
+    left: 162px;
+    top: 566px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.085em;
+
+    color: #3B3A3A;
+}
+
+.logo{
+    position: absolute;
+    width: 84px;
+    height: 87px;
+    left: 40px;
+    top: 4px;
+
+    background: url(Free_Sample_By_Wix.jpg);
+    mix-blend-mode: multiply;
+    border-radius: 2px;
+}
+ */
+
+/* login */
+
+/* .login{
+    width: 116px;
+    height: 49px;
+
+    background: #EAEAEA;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+} */
+
+/* signin */
+
+/* .signin{
+    Width:118px;
+Height:49px;
+Left:153px;
+Radius:5px;
+Padding:10px;
+Gap:10px;
+background-color: #0055FF; */
+/* 88% */
+/* login */
+
+
+/* Auto layout */
+/* 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 118px;
+    height: 49px; */
+
+    /* background: rgba(0, 85, 255, 0.88);
+    border-radius: 5px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+} */
+
+/* explore tools */
+
+/* .explore-tool{
+    /* Frame 14 */
+
+
+    /* box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 273px;
+    height: 58px;
+    left: 162px;
+    top: 772px;
+
+    background: #3E99F7;
+    border: 1px solid #1E69FE;
+    border-radius: 5px;
+    } */
+
+/* .see-all-tools{
+    /* Frame 21 */
+
+
+/* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 385px;
+    height: 58px;
+    left: 742px;
+    top: 1969px;
+
+    background: #FFFFFF;
+    border: 1px solid #3E99F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+} */
+
+sub-boxex */
+
+.sub-boxes{
+        /* Frame 15 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 375px;
+    top: 1358px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+
+
+    /* Frame 16 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 945px;
+    top: 1358px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+
+
+    /* Frame 17 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 375px;
+    top: 1556px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+
+
+    /* Frame 18 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 945px;
+    top: 1556px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+
+
+/* Frame 20 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 945px;
+    top: 1754px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+
+
+    /* Frame 19 */
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 544px;
+    height: 154px;
+    left: 375px;
+    top: 1754px;
+
+    background: #F7F7F7;
+    border: 1px solid #A1A1A1;
+    border-radius: 8px;
+}
+
+/* why  use pdf tool */
+
+.why{
+    position: absolute;
+    width: 733px;
+    height: 81px;
+    left: 554.32px;
+    top: 2247px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 81px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #3E99F7;
+
+    transform: rotate(0.22deg);
+}
+
+/* no watermark */
+.watermark{
+    /* No Watermark. */
+
+
+    position: absolute;
+    width: 338px;
+    height: 54px;
+    left: 583px;
+    top: 2366px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Keep Your Simple Tasks Simple. */
+
+
+    position: absolute;
+    width: 649px;
+    height: 54px;
+    left: 581px;
+    top: 2455px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Work Directly on Your Files. */
+
+
+    position: absolute;
+    width: 560px;
+    height: 54px;
+    left: 581px;
+    top: 2544px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Digital Signatures Made Easy. */
+
+
+    position: absolute;
+    width: 610px;
+    height: 54px;
+    left: 581px;
+    top: 2633px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Create the Perfect Document. */
+
+
+    position: absolute;
+    width: 610px;
+    height: 54px;
+    left: 581px;
+    top: 2722px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Manage Documents—All in One Place. */
+
+
+    position: absolute;
+    width: 767px;
+    height: 54px;
+    left: 581px;
+    top: 2900px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+
+
+
+    /* Get It on Mobile. */
+
+
+    position: absolute;
+    width: 355px;
+    height: 54px;
+    left: 581px;
+    top: 2811px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #424141;
+}
+
+/* last logo */
+
+.l-logo{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 86px;
+    height: 84px;
+    left: 104px;
+    top: 3130px;
+
+    background: url(Free_Sample_By_Wix.jpg);
+    border: 5px solid #E1DC64;
+}
+
+/* pdf are made easy */
+
+.easy{
+    position: absolute;
+    width: 278px;
+    height: 36px;
+    left: 101px;
+    top: 3245px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #535353;
+}
+
+.team{
+    /* Frame 23 */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 25px;
+    gap: 350px;
+
+    position: absolute;
+    width: 1177px;
+    height: 48px;
+    left: 314px;
+    top: 3345px;
+
+
+
+    /* Education */
+
+
+    position: absolute;
+    width: 186px;
+    height: 18px;
+    left: 107px;
+    top: 3443px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Bussiness */
+
+
+    position: absolute;
+    width: 166px;
+    height: 18px;
+    left: 107px;
+    top: 3515px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* LA CORP */
+
+
+    position: absolute;
+    width: 204px;
+    height: 24px;
+    left: 595px;
+    top: 3525px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Developer-Sharika */
+
+
+    position: absolute;
+    width: 224px;
+    height: 24px;
+    left: 1555px;
+    top: 3525px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Education production */
+
+
+    position: absolute;
+    width: 259px;
+    height: 24px;
+    left: 1089px;
+    top: 3525px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* About */
+
+
+    position: absolute;
+    width: 152px;
+    height: 32px;
+    left: 595px;
+    top: 3599px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Ux&Ui developer-Harsha */
+
+
+    position: absolute;
+    width: 290px;
+    height: 32px;
+    left: 1555px;
+    top: 3599px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Help */
+
+
+    position: absolute;
+    width: 152px;
+    height: 32px;
+    left: 595px;
+    top: 3443px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Founder-Lochan.S */
+
+
+    position: absolute;
+    width: 224px;
+    height: 32px;
+    left: 1555px;
+    top: 3443px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+
+
+
+    /* Websites */
+
+
+    position: absolute;
+    width: 152px;
+    height: 32px;
+    left: 1089px;
+    top: 3443px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.015em;
+
+    color: #525252;
+}
